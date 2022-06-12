@@ -2,7 +2,7 @@
 
 ---
 
-## *Welcome to my analysis of San Francisco Real Estate. This is a helpfull analysis that can provide insight on rent prices and squarte footage price of homes in San Francisco. 
+## Welcome to my analysis of San Francisco Real Estate. This is a helpfull analysis that can provide insight on rent prices and square footage price of homes in San Francisco. 
 
 ## *Feel free to explore my codebase!* 
 
